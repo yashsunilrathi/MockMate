@@ -3,7 +3,7 @@
 
 **Mockmate** is a web-based platform designed to help users **prepare for exams** through realistic mock simulations. It offers curated questions, performance tracking, and structured feedback to bridge the gap between theory and application.
 
-[MockMate](https://mockmate-nczo.onrender.com)
+[MockMate is live](https://mockmate-nczo.onrender.com)
 
 ---
 
